@@ -1,7 +1,7 @@
 Source: fyba
 Priority: extra
 Maintainer: Anders Einar Hilden <hildenae@gmail.com>
-Build-Depends: debhelper (>= 8.0.0), autotools-dev, autoconf, libtool
+Build-Depends: debhelper (>= 8.0.0), autotools-dev, autoconf, libtool, dh-autoreconf
 Standards-Version: 3.9.3
 Section: libs
 Homepage: https://github.com/kartverket/fyba

@@ -1,4 +1,4 @@
-Source: libfyba
+Source: fyba
 Priority: extra
 Maintainer: Anders Einar Hilden <hildenae@gmail.com>
 Build-Depends: debhelper (>= 8.0.0), autotools-dev, autoconf, libtool
